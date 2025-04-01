@@ -1,4 +1,4 @@
-# AWS Bedrock Agent Chat Application
+# Generic Template for AWS Bedrock Agent Chat Application
 
 A React-based chat application that demonstrates integration with AWS Bedrock Agent. This application provides a user interface for interacting with AWS Bedrock Agents through a chat interface.
 
